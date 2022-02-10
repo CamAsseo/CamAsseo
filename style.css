@@ -47,7 +47,10 @@ select {
 }
 
 /* Base */
-
+nav {}
+nav ul{}
+nav ul li{}
+nav ul li a{}
 /* Layout */
 
 /* Componentes */
